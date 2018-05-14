@@ -1,0 +1,8 @@
+D:\AlphaBits\ShellLauncher\ShellLauncher\bin\Release\ShellLauncher.exe.config
+D:\AlphaBits\ShellLauncher\ShellLauncher\bin\Release\ShellLauncher.exe
+D:\AlphaBits\ShellLauncher\ShellLauncher\bin\Release\ShellLauncher.pdb
+D:\AlphaBits\ShellLauncher\ShellLauncher\obj\Release\ShellLauncher.Properties.Resources.resources
+D:\AlphaBits\ShellLauncher\ShellLauncher\obj\Release\ShellLauncher.WinUpdateForm.resources
+D:\AlphaBits\ShellLauncher\ShellLauncher\obj\Release\ShellLauncher.csproj.GenerateResource.Cache
+D:\AlphaBits\ShellLauncher\ShellLauncher\obj\Release\ShellLauncher.exe
+D:\AlphaBits\ShellLauncher\ShellLauncher\obj\Release\ShellLauncher.pdb
